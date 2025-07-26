@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kanishk
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" height="300"/>
 </div>
 
 <h3 align="center">
@@ -23,7 +23,6 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 - Selected among 800+ applicants for MIT Hackathon 2025, developed AI Copilot for Renewable Energy Data Rooms
 - Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
 - Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
-- Participated in the Level 1 E-Commerce & Tech Quiz at Flipkart GRi
 
 ## 🛠️ My Tech Stack
 <p align="center">
@@ -81,18 +80,29 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 
 ## 🚀 Featured Projects
 
-### 🧠 EEG Signal Processing
-Advanced EEG signal analysis and visualization system
-- Processes and analyzes electroencephalogram signals for neurological insights
-- Interactive web-based visualization of brain activity patterns
-- Technologies: HTML, CSS, JavaScript, Signal Processing Libraries
+### 📝 Bloggify: Blogging Platform
+Modern full-stack blogging platform with rich features
+- User authentication with profile management and personalized content feeds
+- Rich text editor with media uploads and responsive design for all devices
+- Technologies: React, Node.js, Express, MongoDB, Azure Cloud Services
 
 <p align="center">
-  <a href="https://github.com/Kanishk1420/EEG-Signal-Processing">
-    <img src="https://img.shields.io/badge/-View_Repository-2ea44f?style=for-the-badge&logo=github">
+  <a href="https://github.com/Kanishk1420/Bloggify-Blogging-Platform/tree/main">
+    <img src="https://img.shields.io/badge/-View Project-2ea44f?style=for-the-badge&logo=github">
   </a>
-  <a href="https://kanishk1420.github.io/EEG-Signal-Processing/">
+  <a href="https://bloggifyfrontend.azurewebsites.net/">
     <img src="https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+### 📊 Excel Analytics Platform
+Web-based platform for advanced Excel file analytics and visualization
+- Implemented interactive dashboards for data visualization and dynamic report generation
+- Technologies: HTML, CSS, Javascript, React.js, MongoDB, Express.js, Node.js
+
+<p align="center">
+  <a href="https://github.com/Kanishk1420/Excel_Analytics_Platform">
+    <img src="https://img.shields.io/badge/-View_Project-2ea44f?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -107,16 +117,6 @@ Flutter-based application with camera functionality for road damage detection us
   </a>
 </p>
 
-### 📊 Excel Analytics Platform
-Web-based platform for advanced Excel file analytics and visualization
-- Implemented interactive dashboards for data visualization and dynamic report generation
-- Technologies: HTML, CSS, Javascript, React.js, MongoDB, Express.js, Node.js
-
-<p align="center">
-  <a href="https://github.com/Kanishk1420/Excel_Analytics_Platform">
-    <img src="https://img.shields.io/badge/-View_Project-2ea44f?style=for-the-badge&logo=github">
-  </a>
-</p>
 
 ### 📈 FinReport: Stock Earnings Forecast
 Stock forecasting system combining technical analysis with financial news processing
