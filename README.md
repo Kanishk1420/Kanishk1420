@@ -12,15 +12,16 @@
 
 
 ## 👨‍💻 About Me
-Passionate developer born on September 24, 2003, with interests in Web development, Mobile applications, and Cloud technologies. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in English and Hindi.
+I'm a Passionate developer, with interests in Web development, Mobile development, and Cloud devops. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in both English and Hindi Languages.
 
 ## 📚 Currently Learning
 ![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/Flutterflow-%237F52FF?logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 ## 🎓 Academic Achievements
-- Selected among 800+ applicants for MIT Hackathon 2025, developed AI Copilot for Renewable Energy Data Rooms
+- Qualified for final round in MIT Hacknation Global Hackathon 2025
 - Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
 - Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
 
@@ -38,7 +39,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS-3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
@@ -78,63 +79,13 @@ Passionate developer born on September 24, 2003, with interests in Web developme
   </a>
 </p>
 
-## 🚀 Featured Projects
-
-### 📝 Bloggify: Blogging Platform
-Modern full-stack blogging platform with rich features
-- User authentication with profile management and personalized content feeds
-- Rich text editor with media uploads and responsive design for all devices
-- Technologies: React, Node.js, Express, MongoDB, Azure Cloud Services
-
-<p align="center">
-  <a href="https://github.com/Kanishk1420/Bloggify-Blogging-Platform/tree/main">
-    <img src="https://img.shields.io/badge/-View Project-2ea44f?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://bloggifyfrontend.azurewebsites.net/">
-    <img src="https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
-
-### 📊 Excel Analytics Platform
-Web-based platform for advanced Excel file analytics and visualization
-- Implemented interactive dashboards for data visualization and dynamic report generation
-- Technologies: HTML, CSS, Javascript, React.js, MongoDB, Express.js, Node.js
-
-<p align="center">
-  <a href="https://github.com/Kanishk1420/Excel_Analytics_Platform">
-    <img src="https://img.shields.io/badge/-View_Project-2ea44f?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-### 📱 Street Sense Damage Detection App
-Flutter-based application with camera functionality for road damage detection using image processing
-- Implemented image capture and processing techniques for damage detection
-- Technologies: Flutter, Dart, Kotlin
-
-<p align="center">
-  <a href="https://github.com/Kanishk1420/StreetSense-Road-Damage-Detection">
-    <img src="https://img.shields.io/badge/-View_Project-2ea44f?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-
-### 📈 FinReport: Stock Earnings Forecast
-Stock forecasting system combining technical analysis with financial news processing
-- LSTM model for predictions with risk assessment using EGARCH volatility estimation
-- Technologies: Python (PyTorch, NumPy, Pandas), HTML/CSS, YAML
-
-<p align="center">
-  <a href="https://github.com/Kanishk1420/FinReport-Explainable-Stock-Earnings-Forecasting-via-News-Factor">
-    <img src="https://img.shields.io/badge/-View_Project-2ea44f?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-## 🏆 Extra-Curricular Activities
-- 👨‍💻 Active Open Source Contributor
-- 📚 Continuous Learning Enthusiast
-- 🤝 Collaboration and Team Projects
-- 🎯 Actively participated in College Society Events
-- 👥 Strong team leadership abilities with adaptability
+## 🔭 Extra-Curricular Activities
+-  Member of E-Labs Game-dev Club in College 
+-  Doing Research & Writing Papers in Recent Technologies
+-  Active Open Source Contributor in Github Community
+-  Continuous Learning Enthusiast
+-  Collaboration and Team Projects
+-  Strong team leadership abilities with adaptability
 
 ## 📫 Connect with Me
 <p align="center">
@@ -143,19 +94,19 @@ Stock forecasting system combining technical analysis with financial news proces
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/SushmaLal125823" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5Z6h2su_P2Dpy48AmTVcigVGKB5bsYuMZQ&s" alt="X" width="40" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/iamkanishk24/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Kanishkgupta2003@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Email" width="45" height="45"/>
+    <img src="https://it.fdu.edu/wp-content/uploads/2024/05/apps.46065.14374512070697751.b8c0d5fc-cec2-42f9-924b-60723d59e3f2.b69611ff-648d-4827-9bb1-8a7bc4653719.png" alt="Email" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Kanishk1420W/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
+  <a href="https://buymeacoffee.com/kanishkgupe" target="_blank">
+    <img src="https://cdn-1.webcatalog.io/catalog/buy-me-a-coffee/buy-me-a-coffee-icon-filled-256.webp?v=1760320423397" alt="Buy Me a Coffee" width="45" height="45"/>
   </a>
 </p>
 
