@@ -17,10 +17,11 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 ## 📚 Currently Learning
 ![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/Flutterflow-%237F52FF?logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 
 ## 🎓 Academic Achievements
+- Research paper titled “Stock Earnings Forecasting via News Factor Analyzing Model” accepted for publication in <b>Elsevier</b> Procedia Computer Science and selected for presentation at ICMLDE 2025.
 - Qualified for final round in MIT Hacknation Global Hackathon 2025
 - Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
 - Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
@@ -55,10 +56,11 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-a9cbd4?style=flat&logo=apache-kafka&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-a9cbd4?style=flat&logo=apache-kafka&logoColor=black)
 
 ## 📊 GitHub Stats
 
@@ -81,7 +83,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 
 ## 🔭 Extra-Curricular Activities
 -  Member of E-Labs Game-dev Club in College 
--  Doing Research & Writing Papers in Recent Technologies
+-  Doing Research & Writing Papers in Machine Learning and AI.
 -  Active Open Source Contributor in Github Community
 -  Continuous Learning Enthusiast
 -  Collaboration and Team Projects
