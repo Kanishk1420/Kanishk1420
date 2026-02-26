@@ -64,13 +64,13 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=Kanishk1420&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="Kanishk's GitHub streak" />
 </p>
 
 <div align="center">
   <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk1420&layout=compact&theme=radical" alt="Kanishk's top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kanishk1420&layout=compact&theme=radical" alt="Kanishk's top languages" />
 </div>
 
 ## 🏆 GitHub Trophies
