@@ -16,7 +16,6 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 
 ## 📚 Currently Learning
 ![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/Flutterflow-%237F52FF?logo=flutter&logoColor=white)
 
 
 
@@ -76,8 +75,8 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kanishk1420&theme=radical&row=1&column=7&no-frame=true&margin-w=15" alt="Kanishk's GitHub Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=Kanishk1420&theme=radical&row=1&column=7&no-frame=true&margin-w=15" alt="Kanishk's GitHub Trophies" />
   </a>
 </p>
 
