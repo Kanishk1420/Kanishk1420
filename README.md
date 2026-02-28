@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kanishk
+# Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>, I'm Kanishk
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" height="300"/>
@@ -11,21 +11,21 @@
 </h3>
 
 
-## 👨‍💻 About Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="28" height="28"> About Me
 I'm a Passionate developer, with interests in Web development, Mobile development, and Cloud devops. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in both English and Hindi languages.
 
-## 📚 Currently Learning
+## <img src="https://cdn.sanity.io/images/nsgh2r6b/production/7e5e1c897b8d66e0756544e5cf7cb5ebd1307413-480x480.gif" width="28" height="28"> Currently Learning
 ![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 
 
-## 🎓 Academic Achievements
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="28" height="28"></picture> Academic Achievements
 - Research paper titled “Stock Earnings Forecasting via News Factor Analyzing Model” accepted for publication in <b>Elsevier</b> Procedia Computer Science and selected for presentation at ICMLDE 2025.
 - Qualified for final round in MIT Hacknation Global Hackathon 2025
 - Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
 - Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
 
-## 🛠️ My Tech Stack
+## <img src="https://i.ibb.co/ccxvD7Xq/Code.gif" alt="🧰" width="28" height="28"> My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,mysql,kafka,flutter,dart,firebase,git,azure" />
@@ -61,7 +61,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-a9cbd4?style=flat&logo=apache-kafka&logoColor=black)
 
-## 📊 GitHub Stats
+## <img src="https://i.ibb.co/rGKJ33my/output-onlinegiftools.gif" alt="📊" width="28" height="28"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
@@ -73,14 +73,14 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kanishk1420&layout=compact&theme=radical" alt="Kanishk's top languages" />
 </div>
 
-## 🏆 GitHub Trophies
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="28" height="28"></picture> GitHub Trophies
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img src="https://github-trophies.vercel.app/?username=Kanishk1420&theme=radical&row=1&column=7&no-frame=true&margin-w=15" alt="Kanishk's GitHub Trophies" />
   </a>
 </p>
 
-## 🔭 Extra-Curricular Activities
+## <img src="https://i.ibb.co/KdD6MvB/output-onlinegiftools-1.gif" alt="🔭" width="28" height="28"> Extra-Curricular Activities
 -  Member of E-Labs Game-dev Club in College 
 -  Doing Research & Writing Papers in Machine Learning and AI.
 -  Active Open Source Contributor in Github Community
@@ -88,7 +88,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 -  Collaboration and Team Projects
 -  Strong team leadership abilities with adaptability
 
-## 📫 Connect with Me
+## <img src="https://i.ibb.co/PvJmj4mt/output-onlinegiftools-2.gif" alt="🤝" width="28" height="28"> Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishk-gupta-3ab129303/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
@@ -111,7 +111,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
   </a>
 </p>
 
-## 📊 Profile Analytics
+## <img src="https://i.ibb.co/rGKJ33my/output-onlinegiftools.gif" alt="📊" width="28" height="28"> Profile Analytics
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kanishk1420&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <a href="https://github.com/Kanishk1420?tab=followers">
