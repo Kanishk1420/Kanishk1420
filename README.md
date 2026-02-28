@@ -14,7 +14,7 @@
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="28" height="28"> About Me
 I'm a Passionate developer, with interests in Web development, Mobile development, and Cloud devops. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in both English and Hindi languages.
 
-## <img src="https://cdn.sanity.io/images/nsgh2r6b/production/7e5e1c897b8d66e0756544e5cf7cb5ebd1307413-480x480.gif" width="28" height="28"> Currently Learning
+## <img src="https://camo.githubusercontent.com/086a7dae0ddae2027c44173f38b657f6c92dc2dbaf3f16bb9a36e7fd19f2262a/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f6e736768327236622f70726f64756374696f6e2f376535653163383937623864363665303735363534346535636637636235656264313330373431332d343830783438302e676966" width="28" height="28"> Currently Learning
 ![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
 
