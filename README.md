@@ -25,7 +25,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 - Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
 - Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
 
-## <img src="https://github.com/user-attachments/assets/cb172a75-f11e-4968-8684-6ade5afad0ec" alt="🧰" width="28" height="28"> My Tech Stack
+## <img src="./assets/Code.gif" alt="🧰" width="28" height="28"> My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,mysql,kafka,flutter,dart,firebase,git,azure" />
@@ -61,7 +61,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-a9cbd4?style=flat&logo=apache-kafka&logoColor=black)
 
-## <img src="https://github.com/user-attachments/assets/aad374f7-76d2-4796-8ca9-665f4fa244fa" alt="📊" width="28" height="28"> GitHub Stats
+## <img src="./assets/Graph.gif" alt="📊" width="28" height="28"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
@@ -80,7 +80,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
   </a>
 </p>
 
-## <img src="https://github.com/user-attachments/assets/ba8a482f-2a5b-44e1-8ebf-6486170f27aa" alt="🔭" width="28" height="28"> Extra-Curricular Activities
+## <img src="./assets/Medal.gif" alt="🔭" width="28" height="28"> Extra-Curricular Activities
 -  Member of E-Labs Game-dev Club in College 
 -  Doing Research & Writing Papers in Machine Learning and AI.
 -  Active Open Source Contributor in Github Community
@@ -88,7 +88,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 -  Collaboration and Team Projects
 -  Strong team leadership abilities with adaptability
 
-## <img src="https://github.com/user-attachments/assets/31749b4d-2b42-4306-befd-8d6539885b1a" alt="🤝" width="28" height="28"> Connect with Me
+## <img src="./assets/Handshake.gif" alt="🤝" width="28" height="28"> Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishk-gupta-3ab129303/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
@@ -111,7 +111,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
   </a>
 </p>
 
-## <img src="https://github.com/user-attachments/assets/aad374f7-76d2-4796-8ca9-665f4fa244fa" alt="📊" width="28" height="28"> Profile Analytics
+## <img src="./assets/Graph.gif" alt="📊" width="28" height="28"> Profile Analytics
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kanishk1420&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <a href="https://github.com/Kanishk1420?tab=followers">
