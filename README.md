@@ -10,56 +10,59 @@
   </a>
 </h3>
 
-
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" alt="👨‍💻" width="28" height="28"> About Me
-I'm a Passionate developer, with interests in Web development, Mobile development, and Cloud devops. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in both English and Hindi languages.
+
+I'm a Passionate developer, with interests in Web development, Mobile development, and Cloud Devops. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in both English and Hindi languages.
 
 ## <img src="https://camo.githubusercontent.com/086a7dae0ddae2027c44173f38b657f6c92dc2dbaf3f16bb9a36e7fd19f2262a/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f6e736768327236622f70726f64756374696f6e2f376535653163383937623864363665303735363534346535636637636235656264313330373431332d343830783438302e676966" width="28" height="28"> Currently Learning
-![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
-
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="28" height="28"></picture> Academic Achievements
+
 - Research paper titled “Stock Earnings Forecasting via News Factor Analyzing Model” accepted for publication in <b>Elsevier</b> Procedia Computer Science and selected for presentation at ICMLDE 2025.
 - Qualified for final round in MIT Hacknation Global Hackathon 2025
 - Qualified for the 2nd round of the Nirman 4.0 Hackathon at Silicon University
-- Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
+- Awarded Certificate of Excellence as Winner of Startup Innovation <b>Team blocbyte</b> by Unstop
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="28" height="28"></picture> My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,mysql,kafka,flutter,dart,firebase,git,azure" />
-  </a>
-</p>
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-### Web Development
-![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS-3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,dart,js,ts"/>
+</a>
 
+### Frontend Development
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,tailwind"/>
+  </a>
+
+### Backend & Data Infrastructure
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,spring,kafka"/>
+  </a>
 
 ### Mobile App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio"/>
+  </a>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-a9cbd4?style=flat&logo=apache-kafka&logoColor=black)
+### Database Development
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+  </a>
+
+### Cloud & DevOps
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,github,githubactions,azure"/>
+  </a>
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="28" height="28"></picture> GitHub Stats
 
@@ -74,6 +77,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 </div>
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="28" height="28"></picture> GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img src="https://github-trophies.vercel.app/?username=Kanishk1420&theme=radical&row=1&column=7&no-frame=true&margin-w=15" alt="Kanishk's GitHub Trophies" />
@@ -81,14 +85,15 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 </p>
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.gif" alt="🥇" width="28" height="28"></picture>Extra-Curricular Activities
--  Member of E-Labs Game-dev Club in College 
--  Doing Research & Writing Papers in Machine Learning and AI.
--  Active Open Source Contributor in Github Community
--  Continuous Learning Enthusiast
--  Collaboration and Team Projects
--  Strong team leadership abilities with adaptability
+
+- Member of E-Labs Game-dev Club in College
+- Active Open Source Contributor in Github Community
+- Continuous Learning Enthusiast
+- Collaboration and Team Projects
+- Strong team leadership abilities with adaptability
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="28" height="28"></picture> Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishk-gupta-3ab129303/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
@@ -99,11 +104,11 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/iamkanishk24/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="45" height="45"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LEWI88wVZBQZ4YmnUfwXBQb02j8DbJL--g&s" alt="Instagram" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Kanishkgupta2003@outlook.com" target="_blank">
-    <img src="https://it.fdu.edu/wp-content/uploads/2024/05/apps.46065.14374512070697751.b8c0d5fc-cec2-42f9-924b-60723d59e3f2.b69611ff-648d-4827-9bb1-8a7bc4653719.png" alt="Email" width="50" height="50"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-outlook-icon-svg-download-png-1194343.png" alt="Email" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://buymeacoffee.com/kanishkgupe" target="_blank">
@@ -112,6 +117,7 @@ I'm a Passionate developer, with interests in Web development, Mobile developmen
 </p>
 
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="28" height="28"></picture> Profile Analytics
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kanishk1420&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <a href="https://github.com/Kanishk1420?tab=followers">
